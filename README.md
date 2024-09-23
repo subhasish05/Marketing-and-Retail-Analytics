@@ -1,5 +1,5 @@
 # Marketing-and-Retail-Analytics
-Project Overview
+## Project Overview
 OList is an e-commerce company that has recently faced financial losses. To reduce costs and improve profitability, efficient inventory management is crucial. In this project, we focus on managing the inventory costs for OList by identifying key products that significantly contribute to overall revenue. Additionally, we employ Market Basket Analysis to gain insights into customer purchasing behaviors, enabling OList to estimate which products are more likely to be purchased together, thus optimizing inventory and marketing strategies.
 
 Objectives
