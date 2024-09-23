@@ -9,11 +9,11 @@ Identify top-performing products that contribute the most to the company's reven
 **Market Basket Analysis:**
 Using transactional data, analyze the purchasing patterns of individual customers. The goal is to understand customer behavior and identify items that are often bought together, allowing the company to forecast product demands and make informed decisions about stocking and promotional strategies.
 ## Key Tasks
-Analyze sales data to identify high-revenue products.
-Perform Market Basket Analysis to understand product bundling opportunities.
-Provide recommendations to improve inventory efficiency and reduce costs.
+~ Analyze sales data to identify high-revenue products.
+~ Perform Market Basket Analysis to understand product bundling opportunities.
+~ Provide recommendations to improve inventory efficiency and reduce costs.
 ## Tools & Techniques Used
-Data Analysis: Python (Pandas, Numpy).
-Visualization: Tableau.
-Market Basket Analysis: Tableau.
-Data Wrangling: Excel, Python.
+~ Data Analysis: Python (Pandas, Numpy).
+~ Visualization: Tableau.
+~ Market Basket Analysis: Tableau.
+~ Data Wrangling: Excel, Python.
