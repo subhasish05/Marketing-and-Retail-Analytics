@@ -13,7 +13,7 @@ Analyze sales data to identify high-revenue products.
 Perform Market Basket Analysis to understand product bundling opportunities.
 Provide recommendations to improve inventory efficiency and reduce costs.
 ## Tools & Techniques Used
-Data Analysis: Python (Pandas, Numpy)
-Visualization: Tableau
-Market Basket Analysis: Apriori Algorithm, Association Rules
-Data Wrangling: Excel, Python
+Data Analysis: Python (Pandas, Numpy).
+Visualization: Tableau.
+Market Basket Analysis: Tableau.
+Data Wrangling: Excel, Python.
